@@ -5,6 +5,9 @@
 
 Matlab implementation for cartoon-texture image decomposition using blockwise low-rank texture characterization.
 
+### Requirement
+Required Matlab 2016a or later
+
 ## Usage
 `>> CTdecBNNexperiments`
 
